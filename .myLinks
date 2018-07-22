@@ -1,0 +1,5 @@
+{
+  "links": {
+    "local-package": "link:./../git/react-native-list-slider/src"
+  } 
+}
